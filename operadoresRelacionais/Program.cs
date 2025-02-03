@@ -61,7 +61,7 @@ if(x >= y)
 }
 else
 {
-    result = "x NÂO é MAIOR ou IGUAL a y";
+    result = "x NÃO é MAIOR ou IGUAL a y";
 }
 
 Console.WriteLine("Maior ou Igual (>=): " + result);
