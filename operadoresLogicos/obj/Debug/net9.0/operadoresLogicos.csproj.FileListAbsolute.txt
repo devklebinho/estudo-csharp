@@ -1,0 +1,15 @@
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.exe
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.deps.json
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.runtimeconfig.json
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.dll
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.pdb
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.AssemblyInfo.cs
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.sourcelink.json
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.dll
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\refint\operadoresLogicos.dll
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.pdb
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.genruntimeconfig.cache
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\CONSOLE APPS\estudo-csharp\operadoresLogicos\obj\Debug\net9.0\ref\operadoresLogicos.dll
