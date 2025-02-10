@@ -1,0 +1,15 @@
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\bin\Debug\net8.0\doWhile.exe
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\bin\Debug\net8.0\doWhile.deps.json
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\bin\Debug\net8.0\doWhile.runtimeconfig.json
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\bin\Debug\net8.0\doWhile.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\bin\Debug\net8.0\doWhile.pdb
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfoInputs.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfo.cs
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.sourcelink.json
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\refint\doWhile.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.pdb
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\doWhile.genruntimeconfig.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\doWhile\obj\Debug\net8.0\ref\doWhile.dll

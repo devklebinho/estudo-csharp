@@ -1,0 +1,15 @@
+C:\Users\Biblioteca\Documents\estudo-csharp\while\bin\Debug\net8.0\while.exe
+C:\Users\Biblioteca\Documents\estudo-csharp\while\bin\Debug\net8.0\while.deps.json
+C:\Users\Biblioteca\Documents\estudo-csharp\while\bin\Debug\net8.0\while.runtimeconfig.json
+C:\Users\Biblioteca\Documents\estudo-csharp\while\bin\Debug\net8.0\while.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\while\bin\Debug\net8.0\while.pdb
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.AssemblyInfo.cs
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.sourcelink.json
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\refint\while.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.pdb
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\while.genruntimeconfig.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\while\obj\Debug\net8.0\ref\while.dll
