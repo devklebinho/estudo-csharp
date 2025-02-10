@@ -1,0 +1,15 @@
+C:\Users\Biblioteca\Documents\estudo-csharp\for\bin\Debug\net8.0\for.exe
+C:\Users\Biblioteca\Documents\estudo-csharp\for\bin\Debug\net8.0\for.deps.json
+C:\Users\Biblioteca\Documents\estudo-csharp\for\bin\Debug\net8.0\for.runtimeconfig.json
+C:\Users\Biblioteca\Documents\estudo-csharp\for\bin\Debug\net8.0\for.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\for\bin\Debug\net8.0\for.pdb
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.sourcelink.json
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\refint\for.dll
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.pdb
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+C:\Users\Biblioteca\Documents\estudo-csharp\for\obj\Debug\net8.0\ref\for.dll
