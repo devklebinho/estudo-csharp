@@ -1,0 +1,15 @@
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\bin\Debug\net9.0\forEach.exe
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\bin\Debug\net9.0\forEach.deps.json
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\bin\Debug\net9.0\forEach.runtimeconfig.json
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\bin\Debug\net9.0\forEach.dll
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\bin\Debug\net9.0\forEach.pdb
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.AssemblyInfoInputs.cache
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.AssemblyInfo.cs
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.sourcelink.json
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.dll
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\refint\forEach.dll
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.pdb
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\forEach.genruntimeconfig.cache
+C:\Users\Biblioteca\Desktop\KLEBER\DEV\Programação\estudo-csharp\forEach\obj\Debug\net9.0\ref\forEach.dll
