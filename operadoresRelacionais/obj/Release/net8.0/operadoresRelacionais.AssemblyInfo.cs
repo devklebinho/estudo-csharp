@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("operadoresRelacionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5923c4c03405e21147230e18ac0b8d1d71fa0d31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f939df1f0bd2ee4268336918e2cf0a005f794cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("operadoresRelacionais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("operadoresRelacionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
