@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\arquivos",
     "\\calculadora",
     "\\List"
   ],
-  "SelectedNode": "\\List\\Program.cs",
+  "SelectedNode": "\\arquivos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
